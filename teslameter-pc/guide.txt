@@ -1,0 +1,7 @@
+here you can choose the important vaiables and size of measurements
+
+length_x and length_y is the size of the measurements
+
+rows and columns are the number of measurements per x and y axis
+
+when measuring close the Arduino code

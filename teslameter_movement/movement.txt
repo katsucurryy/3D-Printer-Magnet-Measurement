@@ -1,0 +1,12 @@
+The Arduino code contains movement from instructions based on the python program
+
+You can change how it moves or resets here
+under the reset function
+
+for size changes go to python
+
+It is important to note you cannot have this and python opened at the same time
+
+close Arduino for measuring
+
+changes to z axis are changed under calibration
